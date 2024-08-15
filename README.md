@@ -94,5 +94,5 @@ cv2.destroyAllWindows()
 ## Instalasi
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/Drajadpamungkas/vehicle-detection-and-counting.git
-   cd vehicle-detection-and-counting
+   git clone https://github.com/Drajadpamungkas/vehicle-count.git
+   
