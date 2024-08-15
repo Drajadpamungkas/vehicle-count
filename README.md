@@ -95,4 +95,7 @@ cv2.destroyAllWindows()
 1. **Clone Repository**
    ```bash
    git clone https://github.com/Drajadpamungkas/vehicle-count.git
+
+## Catatan
+jangan lupa untuk unggah video input :'toll_gate.mp4' 
    
